@@ -1,0 +1,152 @@
+Difference between python2.7 and 3.7 is a common topic for all subtopics
+Features of python
+	does python is scripting or programing language.
+	source code, compiled code
+	how python command will executes the file.
+	opensource
+	automatic memorymanagement
+	python memory management: 
+		how python alocates memory for int,list,strings
+		object assignment
+		reference assignment
+	scalability
+	dynamictype.
+Installation.
+	Anaconda installation in windows and linux
+	Conda
+	python
+	ipython
+	ipython notebook
+	jupyter notebook
+	how to create virtual environments to work with multiple versions of python in same machine.(install multiple python apps in same machine.)
+Git introduction.
+Variables expressions and statements:
+	variable
+	variable rules
+	how to initialize all datatypes in python
+		int,float,complex,strings,lists,tuples,dictionaries,boolean, None,arrays, dataframes.
+	operations(aruthmatic operations,boolean operations,bitwise operations) with in the datatypes and among the datatypes
+	expression evaluation
+		operator precedency
+	input
+	print.
+conditional statments
+	if
+	if else
+	if else if
+	pass
+	indentation
+	with examples
+	short cut for if else statments
+looping statments
+	for
+	while
+	break
+	continue
+	for else
+	while else
+	with some exaples
+functions
+	how to define function
+	how to call function
+	function memory management(function name is reference, function is an object)
+	different kinds of arguments(positional, keyword)
+	different kinds of parameters(mandatory, optional(Default, *args, **kwargs))
+	local, global variables
+	return
+	yield(generator, iterator)
+strings:
+	string indexing
+	string slicing(which will applicable for list, tuple, array, dataframe)
+	string functions
+lists:
+	intializations
+	list frunction
+	kinds of list assignment
+tuple
+	intializations
+	frunction
+	kinds of  assignment
+dictionary:
+	intializations
+	frunction
+	kinds of  assignment
+set:
+	intializations
+	frunction
+	kinds of  assignment
+will see how to solve some issues by using all the above datatypes
+Moduels:
+	file as a module
+	folder as a module
+	module path finding
+	memory management of modules
+	rules it will follow to search file
+	rules it will follow to create a .pyc file
+	how to import a file which is not there in system path.
+	sys module
+	typical python project structure
+		how to create requirements.txt
+	how to install python for deployment purpose
+	pip
+	pip freeze
+files: .txt, .csv. .jpg .json. yml
+	programing language working with secondary media
+	how to read data from file
+	how to write data into file
+	how to append data in to file
+	pickle
+	json
+	yml
+	working with big files
+database:
+	how work with sqlite3 DBMS(create database, create table, insert, update, delete)
+	how work with postgres DBMS(create database, create table, insert, update, delete)
+Sample project(console app)
+Exceptions
+	differenct kinds of errors
+	try,except, finally,else
+Regularexpressions:
+	how to fetch usefull information from unstrutured string.
+	RE
+oops:
+	difference between functions and class
+	class memory management(class object, data object, instance)
+	databinding
+	inheritace
+	polymorphism(operator overloading, method overloading, method overriding)
+	abstraction
+	encapsulation
+	class method
+	instance method
+	static method
+seminars on data analysis--> numpy, pandas, matplotlib
+seminar on threading-->threading
+device interactions
+	what are the scenarios need to think to interact with the device
+		using python module(pygithub)
+		using API(github API)(requests)
+		using the internall services(ssh-->paramiko)
+		what if you dont have any service to interact.(socket)
+django introduction(django)
+debugging(pdb)
+Adv concepts:
+	list comprehension
+	tuple comprehension
+	dictionary comprehension
+	closure
+	decorator
+	lambda
+	filter
+	map
+	reduce
+	singleton
+unittest
+logging
+Async await
+monkeypatching
+
+
+
+
+
