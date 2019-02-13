@@ -1,7 +1,7 @@
 a=1000
-b=2000
-c=a
-d=a+b
-e=1000
-print(a,b,c,d,e)
+b=a
+c=1000
+print(a,b,c)
 print(id(a))
+print(id(b))
+print(id(c))
