@@ -1,0 +1,22 @@
+INFO:root:program started
+INFO:root:a value entered
+INFO:root:b value entered
+DEBUG:root:before conversiona=12,b=2
+DEBUG:root:after conversiona=12.0,b=2.0
+DEBUG:root:Result:6.0
+INFO:root:end
+INFO:root:program started
+INFO:root:a value entered
+INFO:root:b value entered
+DEBUG:root:before conversiona=12,b=0
+DEBUG:root:after conversiona=12.0,b=0.0
+ERROR:root:float division by zero
+INFO:root:end
+2019-03-23 09:36:21,226-->INFO==>program started
+2019-03-23 09:36:21,886-->INFO==>a value entered
+2019-03-23 09:36:22,390-->INFO==>b value entered
+2019-03-23 09:36:22,390-->DEBUG==>before conversiona=12,b=0
+2019-03-23 09:36:22,390-->DEBUG==>after conversiona=12.0,b=0.0
+2019-03-23 09:36:22,390-->ERROR==>float division by zero
+2019-03-23 09:36:22,390-->INFO==>end
+2019-03-23 09:37:24,108-->ERROR==>float division by zero
